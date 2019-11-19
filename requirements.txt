@@ -1,0 +1,3 @@
+git+https://github.com/Rapptz/discord.py@184c4302c7fe17a31893f0accf197c975200d233
+discord.py==1.2.4
+discord==1.0.1
