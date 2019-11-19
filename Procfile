@@ -1,1 +1,1 @@
-worker: python read.py
+worker: python like.py
